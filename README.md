@@ -1,7 +1,7 @@
 
 #  ICU Severity Scoring System - APACHE II and APACHE III
 
-Analyzing patient data sets and calculating their Apache II and Apache III scores for mortality risk predection.
+Analyzing patient data sets and calculating their Apache II and Apache III scores for mortality risk prediction.
 ## Overview
 
 The ICU Severity Scoring System - APACHE II is a comprehensive and well-documented implementation of the Acute Physiology and Chronic Health Evaluation (APACHE II) scoring system. The primary objective of this project is to provide a reliable tool for healthcare professionals, medical researchers, and developers to assess the condition of patients admitted to an Intensive Care Unit (ICU).
